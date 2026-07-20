@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "npm --prefix qa-automation-saucedemo run test"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
